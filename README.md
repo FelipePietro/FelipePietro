@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepietro/)
 
-Meu nome é Felipe Pietro, estou cursando o 2º ano do Ensino Médio na Etec Guarulhos. Tenho interesse em Infraestrutura de TI, Redes e Hardware!
+Meu nome é Felipe Pietro, estou cursando o 3º ano do Ensino Médio na Etec Guarulhos. Tenho interesse em Infraestrutura de TI, Redes e Hardware!
 * 🏡 Brasil, São Paulo 
 
 ## Formação
