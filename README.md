@@ -1,17 +1,35 @@
-## Olá! Meu nome é Felipe Pietro, Seja Bem-vindo!
+# Hi, I'm Felipe Pietro 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepietro/)
+### Software Development Student | Aspiring Computing Engineer
 
-Meu nome é Felipe Pietro, estou cursando o 3º ano do Ensino Médio na Etec Guarulhos. Tenho interesse em Infraestrutura de TI, Redes e Hardware!
-* 🏡 Brasil, São Paulo 
+I'm a Software Development student from Brazil passionate about building software and understanding how technology works beyond the code.
 
-## Formação
-* 📍 **Etec de Guarulhos**\
-     📖 **Desenvolvimento de Sistemas**\
-     📆  2024 - 2026
-                           
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+My main interests include:
 
+* 💻 Software Engineering
+* 🔒 Cybersecurity
+* ⚙️ Back-end Development
+* 🌐 Computer Networks
+* 🖥️ IT Infrastructure
+* 🧠 Computer Engineering
+
+### 🛠️ Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p>
+
+### 🎓 Education
+
+**Etec Guarulhos**
+Technical Degree in Software Development (2024 – 2026)
+
+### 📫 Contact
+
+* LinkedIn: [www.linkedin.com/in/felipepietro](http://www.linkedin.com/in/felipepietro)
